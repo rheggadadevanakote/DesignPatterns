@@ -1,2 +1,8 @@
 # DesignPatterns
-Collating all my notes related to design patterns.
+
+Design patterns are grouped into: 
+1. Creational design patterns.
+2. Structural design patterns.
+3. Behavioral design patterns.
+
+
