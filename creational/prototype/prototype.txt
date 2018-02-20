@@ -1,0 +1,3 @@
+Creational design pattern.
+
+Clone API in java is predicated on this pattern.
